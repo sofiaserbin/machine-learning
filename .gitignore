@@ -1,0 +1,10 @@
+# Ignore system and user-specific files and directories
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+node_modules/
+venv/
